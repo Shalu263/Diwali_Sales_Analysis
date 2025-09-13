@@ -4,7 +4,7 @@ Objective:
 
 The main goal is to analyze Diwali sales data to:
 
-Undertsnad customer demographics.
+Undertand customer demographics.
 Identify top-selling products & categories.
 Find high-value customer segments.
 Provide business insights for increasing sales.
